@@ -1,0 +1,41 @@
+{
+  "uuid": "67406143-ce6e-4491-bf2d-d7891aecfaa6",
+  "shortName": "Rudd",
+  "longName": "Rudd",
+  "companyName": "Gordon Weeks",
+  "versionCode": 2,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_ICON",
+        "file": "images/rudd_icon.png",
+        "menuIcon": true
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_PLUS",
+        "file": "images/plus.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_MINUS",
+        "file": "images/minus.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_SELECT",
+        "file": "images/select.png"
+      },
+      {
+        "type": "font",
+        "name": "FONT_OSP_DIN_44",
+        "file": "fonts/osp-din/OSP-DIN_44.ttf"
+      }
+    ]
+  }
+}
